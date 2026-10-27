@@ -133,3 +133,4 @@ float Encoder::distancia() {
 void Encoder::reset() {
     contador = 0;
 }
+
