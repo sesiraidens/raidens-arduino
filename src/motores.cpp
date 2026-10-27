@@ -163,3 +163,4 @@ int MotorPasso::posicao() {
 void MotorPasso::reset() {
     posicaoAtual = 0;
 }
+
