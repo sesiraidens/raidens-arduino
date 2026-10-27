@@ -134,3 +134,4 @@ void Encoder::reset() {
     contador = 0;
 }
 
+
